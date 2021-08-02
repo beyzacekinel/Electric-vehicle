@@ -1,4 +1,4 @@
-# Feasibility Study of Electric Vehicles in UK
+# A Feasibility Study of Electric Vehicles in UK
 
 “utils” class includes calculateDistance, calculateDistanceStats, calculateTimeStats, 
 getZipCodeFrequency functions. 
